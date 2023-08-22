@@ -28,4 +28,8 @@ Our Application is a decentralized version of google drive, we are planning to m
 
 -> Solidity
 
+### Implementation
+
+<img width="763" alt="Screenshot 2023-04-16 at 9 50 19 AM" src="UI.png">
+
 
