@@ -30,6 +30,7 @@ Our Application is a decentralized version of google drive, we are planning to m
 
 ### Implementation
 
-<img width="763" alt="Screenshot 2023-04-16 at 9 50 19 AM" src="UI.png">
+<img src="UI.png">
+<img src="UI2.png">
 
 
