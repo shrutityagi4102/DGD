@@ -28,9 +28,4 @@ Our Application is a decentralized version of google drive, we are planning to m
 
 -> Solidity
 
-### Implementation
-
-<img src="UI.png">
-<img src="UI2.png">
-
 
